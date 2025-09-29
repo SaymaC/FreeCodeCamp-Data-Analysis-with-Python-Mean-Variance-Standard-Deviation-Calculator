@@ -17,7 +17,7 @@ The goal is to implement a function that calculates key statistics (mean, varian
 - **NumPy*
 
 ## Skills Demonstrated
-Python Programming
-NumPy for numerical operations
-Data reshaping & matrix operations
-Statistical calculations
+**Python Programming**
+**NumPy for numerical operations**
+**Data reshaping & matrix operations**
+**Statistical calculations**
